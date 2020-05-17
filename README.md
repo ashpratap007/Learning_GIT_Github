@@ -1,2 +1,10 @@
 # Git_Learning
-Learning GIT : Sources - LinkedIn Learning ( Git Essential Training - By : Kevin Skoglund; GitHub Essential Training - By: Aaron Stewart)
+Sources:
+- LinkedIn Learning 
+    - Git Essential Training - By : Kevin Skoglund
+    - GitHub Essential Training - By: Aaron Stewart
+
+
+Important Links, coursewise:
+- GitHub Essential Training - By: Aaron Stewart
+  - https://lab.github.com/
